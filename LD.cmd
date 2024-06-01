@@ -1,5 +1,4 @@
 echo ======= Optimizing Computer Performance and Internet Speed ======= 
-python require.py
 
 :: Function to create random files
 :CreateRandomFiles
